@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "粵語殘片",
+  "base_artist": "陳奕迅",
+  "createdAt": "2025-12-28T14:34:33.979345Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "粵語殘片",
+      "artist": "Eason Chan",
+      "has_synced": true,
+      "path": "select/01_粵語殘片_Eason_Chan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "粵語殘片",
+      "artist": "陳奕迅",
+      "has_synced": true,
+      "path": "select/02_粵語殘片_陳奕迅.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "粵語殘片",
+      "artist": "陳奕迅",
+      "has_synced": true,
+      "path": "select/03_粵語殘片_陳奕迅.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "粵語殘片",
+      "artist": "Eason Chan",
+      "has_synced": true,
+      "path": "select/04_粵語殘片_Eason_Chan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "粵語殘片",
+      "artist": "Chan, Eason",
+      "has_synced": true,
+      "path": "select/05_粵語殘片_Chan,_Eason.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "粵語殘片",
+      "artist": "陳奕迅",
+      "has_synced": true,
+      "path": "select/06_粵語殘片_陳奕迅.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "粵語殘片",
+      "artist": "陳奕迅",
+      "has_synced": true,
+      "path": "select/07_粵語殘片_陳奕迅.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "粵語殘片",
+      "artist": "陳奕迅",
+      "has_synced": true,
+      "path": "select/08_粵語殘片_陳奕迅.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "粵語殘片",
+      "artist": "Eason Chan",
+      "has_synced": true,
+      "path": "select/09_粵語殘片_Eason_Chan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "粵語殘片",
+      "artist": "Chan, Eason",
+      "has_synced": true,
+      "path": "select/10_粵語殘片_Chan,_Eason.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "粵語殘片",
+      "artist": "Eason Chan",
+      "has_synced": true,
+      "path": "select/11_粵語殘片_Eason_Chan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "粵語殘片",
+      "artist": "陳奕迅",
+      "has_synced": true,
+      "path": "select/12_粵語殘片_陳奕迅.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "粵語殘片",
+      "artist": "Eason Chan 陳奕迅",
+      "has_synced": true,
+      "path": "select/13_粵語殘片_Eason_Chan_陳奕迅.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "粵語殘片",
+      "artist": "陳奕迅",
+      "has_synced": false,
+      "path": "select/pl_01_粵語殘片_陳奕迅.txt"
+    }
+  ]
+}
